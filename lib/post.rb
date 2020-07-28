@@ -8,4 +8,4 @@ class Post
   end 
 end 
 
-post.title.genre
+post.title.author
