@@ -5,5 +5,7 @@ class Post
     @author = author 
     @title = title
   
+  end 
 end 
-end 
+
+post.title.genre
