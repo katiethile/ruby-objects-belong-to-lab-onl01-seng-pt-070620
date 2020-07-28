@@ -8,4 +8,4 @@ class Post
   end 
 end 
 
-self.title.author
+post = Post.new
